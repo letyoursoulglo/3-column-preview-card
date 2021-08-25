@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Frontend Mentor 3-column preview card](./images/3-column -preview-card- component.png)
+![Frontend Mentor 3-column preview card](./images/3-column-preview-card-component.png)
 
 
 ### Links
